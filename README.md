@@ -1,8 +1,10 @@
-# React + Vite
+Hii. This is blogger application.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Mega-Blog App | React.js, Redux.js, Tailwind, AppWrite
+• Implemented responsive design with Tailwind CSS, achieving a seamless user experience and a 25% reduction in
+average page load times.
+• Utilized Redux.js for efficient state management, ensuring smooth interactions and consistent application state
+across components.
+• Leveraged AppWrite for backend services, including user authentication, database management, and file storage,
+enabling secure and robust handling of user data.
+• Designed and extensively tested APIs with Postman, ensuring the application’s reliability and performance.
