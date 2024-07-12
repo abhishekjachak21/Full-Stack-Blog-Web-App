@@ -14,7 +14,7 @@ function Footer() {
           <p className="text-sm font-semibold">
             &copy; 2024{" "}
             <Link
-              to="https://xyz.com"
+              to="https://abhishekjachak21.vercel.app/"
               target="_blank"
               className="text-primary"
             >
