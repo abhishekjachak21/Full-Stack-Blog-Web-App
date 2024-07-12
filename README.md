@@ -1,4 +1,4 @@
-Hii. This is blogger application.
+Hii. This is mega blogger application.
 
 # Mega-Blog App | React.js, Redux.js, Tailwind, AppWrite
 • Implemented responsive design with Tailwind CSS, achieving a seamless user experience and a 25% reduction in
