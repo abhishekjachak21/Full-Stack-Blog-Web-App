@@ -75,7 +75,7 @@ function Header() {
           </ul>
         </div>
 
-        {/* MOBILE MENU */}
+        {/* MOBILE MENUU */}
 
         {isOpen ? (
           <button onClick={toggleMenu} className="lg:hidden">
